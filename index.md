@@ -2,6 +2,15 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Heading 2
+```java
+Class Person 
+{
+  String name;
+  String surname;
+  int age;
+}
+```
+
 ### Heading 3
 #### Heading 4
 ##### Heading 5
