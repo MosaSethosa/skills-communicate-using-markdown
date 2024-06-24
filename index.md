@@ -10,8 +10,11 @@ Class Person
   int age;
 }
 ```
-
 ### Heading 3
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
